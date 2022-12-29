@@ -99,7 +99,7 @@
             <td>Demo : <a href="https://github.com/riojapri/IF21507-IF21508/tree/main/git%20instalation">Git installation</a></td><td>1 :heavy_check_mark:</td>
         </tr>
         <tr>
-            <td>Demo : <a href="https://github.com/riojapri/IF21507-IF21508/tree/main/git%20project>Github project initialization</td><td>1":heavy_check_mark:</td>
+            <td>Demo : <a href="https://github.com/riojapri/IF21507-IF21508/tree/main/git%20project>Github project initialization</td><td>1">Github project initialization</td><td>1 :heavy_check_mark:</td>
         </tr>
         <tr>
             <td>Demo : <a href="https://user-images.githubusercontent.com/100669802/209055072-1cfd9b3d-aea8-4339-bd9f-18f3707ee29c.png">Hoppscotch / Postman access</td><td>1 :heavy_check_mark:</td>
