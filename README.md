@@ -111,7 +111,7 @@
             <td>Demo : <a href="https://github.com/Nurkholis070401/IF215007-IF215008/tree/main/Praktikum%20Web/PostgreSQL%20%26%20MySQL%20installation">PostgreSQL / MySQL installation</td><td>2 :heavy_check_mark:</td>
         </tr>        
         <tr>
-            <td>Demo : <a href="https://github.com/Nurkholis070401/IF215007-IF215008/tree/main/Praktikum%20Web/DBeaver%20installation%20%26%20DB%20connection">DBeaver installation & DB connection</td><td>2 :heavy_check_mark:</td>
+            <td>Demo : <a href=https://github.com/riojapri/IF21507-IF21508/tree/main/DBeaver%20installation%20&%20DB%20connection>DBeaver installation & DB connection</td><td>2 :heavy_check_mark:</td>
         </tr>
         <tr>
             <td>Demo : <a href="https://github.com/Nurkholis070401/IF215007-IF215008/tree/main/Praktikum%20Web/MobaExterm">MobaXterm installation & SSH connection</td><td>2 :heavy_check_mark:</td>
