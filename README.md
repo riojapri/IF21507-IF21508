@@ -105,7 +105,7 @@
             <td>Demo : <a href="https://user-images.githubusercontent.com/100669802/209055072-1cfd9b3d-aea8-4339-bd9f-18f3707ee29c.png">Hoppscotch / Postman access</td><td>1 :heavy_check_mark:</td>
         </tr>
         <tr>
-            <td>Demo : <a href="https://github.com/Nurkholis070401/IF215007-IF215008/tree/main/Praktikum%20Web/PHP%20%26%20Composer%20installation%20%26%20hello%20world">PHP & Composer installation & hello world</td><td>2 :heavy_check_mark:</td>
+            <td>Demo : <a href=https://github.com/riojapri/IF21507-IF21508/tree/main/PHP%20&%20Composer%20installition%20&%20hello%20world>PHP & Composer installation & hello world</td><td>2 :heavy_check_mark:</td>
         </tr>
         <tr>
             <td>Demo : <a href="https://github.com/Nurkholis070401/IF215007-IF215008/tree/main/Praktikum%20Web/PostgreSQL%20%26%20MySQL%20installation">PostgreSQL / MySQL installation</td><td>2 :heavy_check_mark:</td>
