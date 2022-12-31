@@ -108,7 +108,7 @@
             <td>Demo : <a href=https://github.com/riojapri/IF21507-IF21508/tree/main/PHP%20&%20Composer%20installition%20&%20hello%20world>PHP & Composer installation & hello world</td><td>2 :heavy_check_mark:</td>
         </tr>
         <tr>
-            <td>Demo : <a href="">PostgreSQL / MySQL installation</td><td>2 :heavy_check_mark:</td>
+            <td>Demo : <a href="https://github.com/riojapri/IF21507-IF21508/tree/main/postgreSQL%20%26%20MySQL%20installation">PostgreSQL / MySQL installation</td><td>2 :heavy_check_mark:</td>
         </tr>        
         <tr>
             <td>Demo : <a href=https://github.com/riojapri/IF21507-IF21508/tree/main/DBeaver%20installation%20&%20DB%20connection>DBeaver installation & DB connection</td><td>2 :heavy_check_mark:</td>
